@@ -6,6 +6,11 @@ body {
 h1{
     color: green;
 }
+
+ul {
+    color: darkblue;
+}
+
 li {
     color: black;
 }
